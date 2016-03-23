@@ -15,6 +15,7 @@
         <input type="text" name="password" /><br /> 
         <input type="submit" value="zaloguj">
     </form>
+	<a href="login-add.jsp">Dodaj konto</a>
 <p>login: admin</p>
 <p>hasło: test</p>
 </body>

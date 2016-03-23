@@ -7,7 +7,7 @@
 <title>Blog</title>
 </head>
 <body>
-<h1>To jest Pierwsza strona blogu w JSP</h1>
+<h1>To jest Pierwsza strona bloga w JSP</h1>
 <h2>Strona w budowie</h2>
 <%
     // To jest skryptlet.  Zauważ, że zmienna
